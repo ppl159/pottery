@@ -291,6 +291,7 @@ footer{
     background-color:#d7d3cc;
     padding:5%;
     color:#6b665d;
+    box-sizing:border-box;
     
 }
 footer p{
