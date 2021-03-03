@@ -11,7 +11,7 @@ img{width:100%;}
 header{
     position:fixed;
     width:96%;
-    height:8vh;
+    height:7vh;
     margin:2%;
     background-color:#fff;
     display:flex;
@@ -19,8 +19,8 @@ header{
     z-index:50;
 }
 header .menu_btn{
-    width:6%;
-    margin:3%;
+    width:6.5%;
+    margin:4%;
 }
 header .logo{
     width:40%;
@@ -28,7 +28,7 @@ header .logo{
 }
 header .login{
     width:5%;
-    margin:3%;
+    margin:4%;
 }
 
 /*내비게이션*/
@@ -150,7 +150,7 @@ header .login{
 /*탭메뉴*/
 .tab{
     width:100%;
-    height:59.5vh;
+    height:59vh;
 }
 .tab .tab_title{
     display:flex;
@@ -194,7 +194,7 @@ header .login{
 }
 .system div{
     width:50%;
-    padding:2% 0;
+    padding:3% 0;
     background-color:#afa99f;
     color:#fff;
     text-align:center;
@@ -305,6 +305,9 @@ footer .txt{
     padding:1% 0;
     color:#6b665d;
 }
+footer .txt p{
+    padding-top:1.5%;
+}
 footer .txt h1{
     font-size:5vw;
     margin-left:3%;
@@ -349,18 +352,18 @@ footer .txt h1{
     font-size:2.7vw;
     padding:4%;
     border-radius:6vw;
-    text-indent:-30px; /*들여쓰기, 내어쓰기*/
+    text-indent:-35px; /*들여쓰기, 내어쓰기*/
 }
 .family .family_btn span{
     display:block;
     width:9px;
-    height:6.5px;
+    height:7px;
     position:absolute;
     background-image:url(../img/f_btn.png);
     background-position:left;
     background-repeat:no-repeat;
     right:15px;
-    bottom:8px;
+    bottom:12px;
 }
 .family .family_btn a span.active{
     background-position:right;
