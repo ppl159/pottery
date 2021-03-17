@@ -57,7 +57,7 @@ header .login{
 }
 .navi nav ul li a.active{
     background-color:#d7d3cc;
-    background-image:url(../img/circle.png);
+    background-image:url(https://ppl159.github.io/pottery/img/circle.png);
     background-repeat:no-repeat;
     background-position:2%;
     background-size:10%;
@@ -102,13 +102,13 @@ header .login{
     background-repeat:no-repeat;
 }
 .main .s1{
-    background-image:url(../img/slide1.png);
+    background-image:url(https://ppl159.github.io/pottery/img/slide1.png);
 }
 .main .s2{
-    background-image:url(../img/slide2.png);
+    background-image:url(https://ppl159.github.io/pottery/img/slide2.png);
 }
 .main .s3{
-    background-image:url(../img/slide3.png);
+    background-image:url(https://ppl159.github.io/pottery/img/slide3.png);
 }
 .swiper-pagination-bullet{
     width:15px;
@@ -131,7 +131,7 @@ header .login{
 .academy h1{
     font-size:5vw;
     margin-bottom:3%;
-    background-image:url(../img/circle.png);
+    background-image:url(https://ppl159.github.io/pottery/img/circle.png);
     background-repeat:no-repeat;
     background-size:7%;
 }
@@ -181,13 +181,13 @@ header .login{
     background-repeat:no-repeat;
 }
 .tab .tab_content .con1{
-    background-image:url(../img/tab_1.png);
+    background-image:url(https://ppl159.github.io/pottery/img/tab_1.png);
 }
 .tab .tab_content .con2{
-    background-image:url(../img/tab_2.png);
+    background-image:url(https://ppl159.github.io/pottery/img/tab_2.png);
 }
 .tab .tab_content .con3{
-    background-image:url(../img/tab_3.png);
+    background-image:url(https://ppl159.github.io/pottery/img/tab_3.png);
 }
 .system{
     width:100%;
@@ -361,7 +361,7 @@ footer .txt h1{
     width:9px;
     height:7px;
     position:absolute;
-    background-image:url(../img/f_btn.png);
+    background-image:url(https://ppl159.github.io/pottery/img/f_btn.png);
     background-position:left;
     background-repeat:no-repeat;
     right:15px;
